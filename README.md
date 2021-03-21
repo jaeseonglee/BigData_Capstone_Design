@@ -1,5 +1,7 @@
-## BigData_Capstone_Design
+## 한림대학교 2021년 1학기 <br> BigData_Capstone_Design
 # 반려동물 케어 시스템
+### Animal Care System
+
 
 
 |학과|학번|이름|
