@@ -12,7 +12,6 @@
 
 - 지도교수 : 고영웅 
 - 참여기업 : (주)인반트
-
 ----------------------
 ## 개발 배경
 - 본 팀에서 제안하는 **반려동물 케어 시스템**은 스마트 IoT 기술을 사용하여 자동으로 반려 동물을 케어하는 다양한 기능을 제공한다. 
@@ -26,17 +25,16 @@
 3. 주인의 휴대폰과 연동하여 외부에서 원격으로 사료와 물을 주는 기능
 4. 카메라를 통해 반려동물의 상태를 실시간으로 확인할 수 있는 기능
 
-
 #### 개발 환경
 - Raspberry pi
-    - Raspbian(라즈비안) OS 사용.
+    - Raspbian(라즈비안) OS 사용
+- Xshell 6, PuTTY 등을 통해 Raspberry pi를 제어
 - python 언어를 통해 모듈 제어
-- Xshell 6, PuTTY 등을 통해 원격으로 제어
     - 사료 주기 및 서보 모터 모듈 제어 테스트
 
-    <img src="./image/사료주기_테스트1.png" value="사료주기_테스트" width="45%" height="45%" >
-    <img src="./image/사료주기_테스트2.png" value="사료주기_테스트" width="45%" height="45%" >
-    
+    <img src="./image/사료주기_테스트1.png" alt="사료주기_테스트" width="45%" height="45%" >
+    <img src="./image/사료주기_테스트2.png" alt="사료주기_테스트" width="45%" height="45%" >
+
     - 테스트 중 사용된 코드 일부
     ```python
     import GPIO.RPi as GPIO # GPIO pin을 사용
@@ -44,7 +42,9 @@
     GPIO.setup(12, GPIO.OUT) # 12번 pin을 출력으로 성정
     pwm = GPIO.PWM(12, 50)
     ```
+    - 워터 펌프모듈을 통해 물 공급을 계획중
 
+    <img src="./image/워터펌프모듈.png" alt="워터펌프모듈" width="50%" height="50%" >
 
 ----------------------
 ## 기대효과
