@@ -32,9 +32,7 @@
 - python 언어를 통해 모듈 제어
     - 사료 주기 및 서보 모터 모듈 제어 테스트
 
-    ![사료주기_테스트1](./image/사료주기_테스트1.png)
-    https://github.com/jaeseonglee/BigData_Capstone_Design/blob/main/Vedio/사료주기_테스트1.mp4
-    
+    [![사료주기_테스트1](.//image/사료주기_테스트1.png)](https://github.com/jaeseonglee/BigData_Capstone_Design/blob/main/Vedio/사료주기_테스트1.mp4)
     
 
     - 테스트 중 사용된 코드 일부
