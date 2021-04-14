@@ -32,8 +32,13 @@
 - python 언어를 통해 모듈 제어
     - 사료 주기 및 서보 모터 모듈 제어 테스트
 
-    [![사료주기_테스트1](.//image/사료주기_테스트1.png)](https://github.com/jaeseonglee/BigData_Capstone_Design/blob/main/Vedio/사료주기_테스트1.mp4)
+        [사료주기_테스트1.mp4링크](https://github.com/jaeseonglee/BigData_Capstone_Design/blob/main/Vedio/사료주기_테스트1.mp4)
+
+        <img src="./image/사료주기_테스트1.png" alt="사료주기_테스트1" width="50%" height="50%"> 
+
+        [사료주기_테스트2.mp4링크](https://github.com/jaeseonglee/BigData_Capstone_Design/blob/main/Vedio/사료주기_테스트2.mp4)
     
+        <img src="./image/사료주기_테스트2.png" alt="사료주기_테스트2" width="50%" height="50%"> 
 
     - 테스트 중 사용된 코드 일부
     ```python
@@ -42,9 +47,11 @@
     GPIO.setup(12, GPIO.OUT) # 12번 pin을 출력으로 성정
     pwm = GPIO.PWM(12, 50)
     ```
-    - 워터 펌프모듈을 통해 물 공급을 계획중
+    - 워터 펌프모듈을 통해 물 공급을 계획
 
-    <img src="./image/워터펌프모듈.png" alt="워터펌프모듈" width="50%" height="50%" >
+        <img src="./image/워터펌프모듈.png" alt="워터펌프모듈" width="50%" height="50%" >
+    
+        [워터펌프.mp4링크](https://github.com/jaeseonglee/BigData_Capstone_Design/blob/main/Vedio/워터펌프.mp4)
 
 ----------------------
 ## 기대효과
