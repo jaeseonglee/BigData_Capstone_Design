@@ -30,28 +30,34 @@
     - Raspbian(라즈비안) OS 사용
 - Xshell 6, PuTTY 등을 통해 접속하여 Raspberry pi를 제어
 - python 언어를 통해 모듈 제어
-    - 사료 주기 및 서보 모터 모듈 제어 테스트
+    - 사료 주기 및 서보 모터 모듈 제어
 
-        [사료주기_테스트1.mp4링크](https://github.com/jaeseonglee/BigData_Capstone_Design/blob/main/Vedio/사료주기_테스트1.mp4)
-
-        <img src="./image/사료주기_테스트1.png" alt="사료주기_테스트1" width="50%" height="50%"> 
-
-        [사료주기_테스트2.mp4링크](https://github.com/jaeseonglee/BigData_Capstone_Design/blob/main/Vedio/사료주기_테스트2.mp4)
+### 진행 상황
+- 반려동물 집 
     
-        <img src="./image/사료주기_테스트2.png" alt="사료주기_테스트2" width="50%" height="50%"> 
+    <img src="./image/Animal's home.jpg" alt="반려동물 집" width="50%" height="50%"> 
 
-    - 테스트 중 사용된 코드 일부
-        ```python
-        import GPIO.RPi as GPIO # GPIO pin을 사용
-        GPIO.setmode(GPIO.BOARD) # BOARD 기준의 pin을 사용
-        GPIO.setup(12, GPIO.OUT) # 12번 pin을 출력으로 설정
-        pwm = GPIO.PWM(12, 50)
-        ```
-    - 워터 펌프모듈을 통해 물 공급을 계획
+- 사료주기 테스트
+    [사료주기_테스트1.mp4링크](https://github.com/jaeseonglee/BigData_Capstone_Design/blob/main/Vedio/사료주기_테스트1.mp4)
 
-        <img src="./image/워터펌프모듈.png" alt="워터펌프모듈" width="50%" height="50%" >
+    <img src="./image/사료주기_테스트1.png" alt="사료주기_테스트1" width="50%" height="50%"> 
+
+    [사료주기_테스트2.mp4링크](https://github.com/jaeseonglee/BigData_Capstone_Design/blob/main/Vedio/사료주기_테스트2.mp4)
     
-        [워터펌프.mp4링크](https://github.com/jaeseonglee/BigData_Capstone_Design/blob/main/Vedio/워터펌프.mp4)
+    <img src="./image/사료주기_테스트2.png" alt="사료주기_테스트2" width="50%" height="50%"> 
+
+- 테스트 중 사용된 코드 일부
+    ```python
+    import GPIO.RPi as GPIO # GPIO pin을 사용
+    GPIO.setmode(GPIO.BOARD) # BOARD 기준의 pin을 사용
+    GPIO.setup(12, GPIO.OUT) # 12번 pin을 출력으로 설정
+    pwm = GPIO.PWM(12, 50)
+    ```
+- 워터 펌프모듈을 통해 물 공급을 계획
+
+    <img src="./image/워터펌프모듈.png" alt="워터펌프모듈" width="50%" height="50%" >
+    
+    [워터펌프.mp4링크](https://github.com/jaeseonglee/BigData_Capstone_Design/blob/main/Vedio/워터펌프.mp4)
 
 ----------------------
 ## 기대효과
@@ -61,7 +67,7 @@
 -  확장성이 좋은 Raspberry Pi를 사용하여 개발하기 때문에 추후 피드백을 통해 기능을 추가한다.
 
 ----------------------
-#### 진행 상황
+#### 기타 사항
 - 매주 월요일 14시에 비대면/대면 회의를 통해 의견을 모으며 프로젝트 진행중.
 
 |날짜|장소|내용|
