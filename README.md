@@ -32,7 +32,8 @@
 - python 언어를 통해 모듈 제어
     - 사료 주기 및 서보 모터 모듈 제어 테스트
 
-    <img src="./image/사료주기_테스트1.png" alt="사료주기_테스트" width="45%" height="45%" >
+    <source src="./Vedio/사료주기_테스트1.mp4" alt="사료주기_테스트">
+    
     <img src="./image/사료주기_테스트2.png" alt="사료주기_테스트" width="45%" height="45%" >
 
     - 테스트 중 사용된 코드 일부
