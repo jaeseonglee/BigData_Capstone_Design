@@ -41,12 +41,12 @@
         <img src="./image/사료주기_테스트2.png" alt="사료주기_테스트2" width="50%" height="50%"> 
 
     - 테스트 중 사용된 코드 일부
-    ```python
-    import GPIO.RPi as GPIO # GPIO pin을 사용
-    GPIO.setmode(GPIO.BOARD) # BOARD 기준의 pin을 사용
-    GPIO.setup(12, GPIO.OUT) # 12번 pin을 출력으로 성정
-    pwm = GPIO.PWM(12, 50)
-    ```
+        ```python
+        import GPIO.RPi as GPIO # GPIO pin을 사용
+        GPIO.setmode(GPIO.BOARD) # BOARD 기준의 pin을 사용
+        GPIO.setup(12, GPIO.OUT) # 12번 pin을 출력으로 설정
+        pwm = GPIO.PWM(12, 50)
+        ```
     - 워터 펌프모듈을 통해 물 공급을 계획
 
         <img src="./image/워터펌프모듈.png" alt="워터펌프모듈" width="50%" height="50%" >
