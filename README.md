@@ -31,8 +31,12 @@
 - Raspberry pi
     - Raspbian(라즈비안) OS 사용.
 - python 언어를 통해 모듈 제어
-    - 서보 모터 모듈 제어 테스트
-    ![사료주기_테스트](./image/사료주기_테스트.png)
+- Xshell 6, PuTTY 등을 통해 원격으로 제어
+    - 사료 주기 및 서보 모터 모듈 제어 테스트
+
+    <img src="./image/사료주기_테스트1.png" value="사료주기_테스트" width="45%" height="45%" >
+    <img src="./image/사료주기_테스트2.png" value="사료주기_테스트" width="45%" height="45%" >
+    
     - 테스트 중 사용된 코드 일부
     ```python
     import GPIO.RPi as GPIO # GPIO pin을 사용
@@ -40,6 +44,7 @@
     GPIO.setup(12, GPIO.OUT) # 12번 pin을 출력으로 성정
     pwm = GPIO.PWM(12, 50)
     ```
+
 
 ----------------------
 ## 기대효과
