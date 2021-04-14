@@ -33,8 +33,9 @@
     - 사료 주기 및 서보 모터 모듈 제어 테스트
 
     
-    ![./image/사료주기_테스트1.png](https://github.com/jaeseonglee/BigData_Capstone_Design/blob/main/Vedio/%EC%82%AC%EB%A3%8C%EC%A3%BC%EA%B8%B0_%ED%85%8C%EC%8A%A4%ED%8A%B81.mp4)
+    ![사료주기_테스트1](https://github.com/jaeseonglee/BigData_Capstone_Design/blob/main/Vedio/%EC%82%AC%EB%A3%8C%EC%A3%BC%EA%B8%B0_%ED%85%8C%EC%8A%A4%ED%8A%B81.mp4)
     
+    ![사료주기_테스트1](./image/사료주기_테스트2.png)
     
     <img src="./image/사료주기_테스트2.png" alt="사료주기_테스트" width="45%" height="45%" >
 
