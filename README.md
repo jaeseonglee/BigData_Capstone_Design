@@ -1,7 +1,7 @@
 ### 한림대학교 2021년 1학기 BigData Capstone Design
 # 반려동물 케어 시스템 (Animal Care System)
 
-### 팀 ACM(Animal Care Manager)
+### 팀명: ACM(Animal Care Manager)
 > <img src="./image/symbol.jpg" alt="ACM"  width="20%" height="20%">
 
 |학과|학번|이름|비고|
@@ -33,6 +33,7 @@
 - Xshell 6, PuTTY 등을 통해 접속하여 Raspberry pi를 제어
 - python 언어를 통해 모듈 제어
     - 사료 주기 및 서보 모터 모듈 제어
+- android studio
 
 ### 진행 상황
 - 반려동물 집 
@@ -107,3 +108,5 @@
 |05.27|-| 지도 교수님과 짧은 면담(피드백 또는 질문)|
 |05.30|공학관 A1409| 하드웨어 마무리 단계, 무게 센서 사용에 대해 회의|
 |05.31|공학관 A1409| 하드웨어 마무리 단계, 무게 센서 미사용 -> 카메라 모듈로 대체|
+|06.01|공학관 A1409| 캡스톤 제출 서류 작성 등|
+|06.02|공학관 A1409| 캡스톤 제출 서류 작성 등|
