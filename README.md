@@ -74,7 +74,7 @@
 
     <img src="./image/온열 매트.jpg" alt="온열매트" width="50%" height="50%">
 
-#### 전체 케어 시스템 구성
+## 전체 케어 시스템 구성
 - 시스템의 구조도와 라즈베리파이 회로도
 
     <img src="./image/전체 구조도.png" alt="구조도" width="50%" height="50%"> <img src="./image/전체 회로도.png" alt="회로도" width="50%" height="50%">
@@ -85,7 +85,7 @@
 
 - 전체적인 구조
 
-    <img src="./image/케어 시스템.png" alt="케어 시스템과 애플리케이션" width="50%" height="50%">
+    <img src="./image/케어 시스템.png" alt="케어 시스템과 애플리케이션" width="70%" height="70%">
 
 
     [시연동영상.mp4링크](https://github.com/jaeseonglee/BigData_Capstone_Design/blob/main/Vedio/21년 1학기 캡스톤-시연동영상-ACM.mp4)
@@ -131,3 +131,27 @@
 
 ---------------------------
 #### 참고 문서
+
+서보모터:
+https://m.blog.naver.com/chandong83/221850060160
+
+온도 센서:
+https://qastack.kr/raspberrypi/3606/ds18b20-temperature-sensor-not-listed
+https://blog.naver.com/zmfla6752/222023915079
+
+고정 IP:   
+https://ansan-survivor.tistory.com/44
+
+라즈베리파이 위키:
+https://wikidocs.net/3172
+
+5V 릴레이모듈과 워터펌프
+https://www.youtube.com/watch?v=bEPHRffREe4
+
+MOTION
+https://m.blog.naver.com/icbanq/221761437794
+https://developmentdiary.tistory.com/486
+https://www.youtube.com/watch?v=NlgQcGXoCG4
+
+파이썬 병렬처리 
+https://docs.python.org/ko/3/library/multiprocessing.html
