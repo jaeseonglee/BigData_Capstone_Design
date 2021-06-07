@@ -88,7 +88,7 @@
     <img src="./image/케어 시스템.png" alt="케어 시스템과 애플리케이션" width="70%" height="70%">
 
 
-    [시연동영상.mp4링크](https://github.com/jaeseonglee/BigData_Capstone_Design/blob/main/Vedio/21년 1학기 캡스톤-시연동영상-ACM.mp4)
+    [시연동영상.mp4링크](https://github.com/jaeseonglee/BigData_Capstone_Design/blob/main/Vedio/시연동영상.mp4)
 
 ----------------------
 ## 기대효과
