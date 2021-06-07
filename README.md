@@ -73,6 +73,23 @@
     <img src="./image/Temperature sensor.jpg" alt="온도 센서" width="50%" height="50%">
 
     <img src="./image/온열 매트.jpg" alt="온열매트" width="50%" height="50%">
+
+#### 전체 케어 시스템 구성
+- 시스템의 구조도와 라즈베리파이 회로도
+
+    <img src="./image/전체 구조도.png" alt="구조도" width="50%" height="50%"> <img src="./image/전체 회로도.png" alt="회로도" width="50%" height="50%">
+
+- 케어 시스템과 애플리케이션    
+
+    <img src="./image/시스템과 애플리케이션.png" alt="케어 시스템과 애플리케이션" width="50%" height="50%">
+
+- 전체적인 구조
+
+    <img src="./image/케어 시스템.png" alt="케어 시스템과 애플리케이션" width="50%" height="50%">
+
+
+    [시연동영상.mp4링크](https://github.com/jaeseonglee/BigData_Capstone_Design/blob/main/Vedio/21년 1학기 캡스톤-시연동영상-ACM.mp4)
+
 ----------------------
 ## 기대효과
 - 1인 가구 증가로 많은 반려동물이 혼자 있게 되는 경우가 많은데, 이때 자동으로 식사와 물을 제공함으로써 반려동물의 올바른 식습관으로 건강을 챙길 수 있다.
@@ -112,3 +129,5 @@
 |06.01 ~ 06.10|공학관 A1409 및 비대면| 케어 시스템 완성 및 캡스톤 제출 서류 작성 등|
 
 
+---------------------------
+#### 참고 문서
