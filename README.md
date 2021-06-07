@@ -133,25 +133,35 @@
 #### 참고 문서
 
 서보모터:
+    
 https://m.blog.naver.com/chandong83/221850060160
 
 온도 센서:
+
 https://qastack.kr/raspberrypi/3606/ds18b20-temperature-sensor-not-listed
+
 https://blog.naver.com/zmfla6752/222023915079
 
 고정 IP:   
+
 https://ansan-survivor.tistory.com/44
 
 라즈베리파이 위키:
+
 https://wikidocs.net/3172
 
-5V 릴레이모듈과 워터펌프
+5V 릴레이모듈과 워터펌프:
+
 https://www.youtube.com/watch?v=bEPHRffREe4
 
-MOTION
+MOTION:
+
 https://m.blog.naver.com/icbanq/221761437794
+    
 https://developmentdiary.tistory.com/486
+    
 https://www.youtube.com/watch?v=NlgQcGXoCG4
 
-파이썬 병렬처리 
+파이썬 병렬처리:
+
 https://docs.python.org/ko/3/library/multiprocessing.html
